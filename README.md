@@ -1,2 +1,3 @@
-# russian-ref-ranks
+# @russian-ref/ranks
+
 Воинские звания Российской Федерации
