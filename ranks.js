@@ -16,7 +16,7 @@ export default {
     name: 'Сотрудник ЧВК',
     level: 0,
     military: true,
-    regexp: /чвк/gi
+    regexp: /чвк|вагнер/gi
   },
   'Рядовой': {
     name: 'Рядовой',

@@ -20,4 +20,8 @@ test('Неправильные', () => {
   assert.is(recognize('привет как дела младший генерал?'), undefined);
 });
 
+test('ЧВК', () => {
+  assert.is(recognize('вагнеровец'), 'Сотрудник ЧВК');
+});
+
 test.run();
